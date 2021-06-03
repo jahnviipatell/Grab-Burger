@@ -1,5 +1,14 @@
+import ComingSoon from './components/ComingSoon'
+
+
 function App() {
-  return <h1>Hello World</h1>
+
+
+
+
+  return (
+    <ComingSoon />
+  )
 }
 
 export default App
