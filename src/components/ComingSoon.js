@@ -7,7 +7,7 @@ const ComingSoon = () => {
   return (
     <div className="full-page">
       <img className="logo" src={Logo} alt="logo" />
-      <div className="line">
+      <div className="line burgers">
         <h3>Burgers & Wings🍔</h3>
         <h3>Milkshakes🥤</h3>
       </div>
