@@ -17,7 +17,7 @@ const ComingSoon = () => {
           <br />
           31 Porchester Road, London, W2 5DP
           <br />
-          <h5><i>(Opening Soon)</i></h5></h4>
+        </h4>
         <h4>📍Dalston <i>(Coming Soon)</i></h4>
         <h4>📍Forest Gate <i>(Coming Soon)</i></h4>
       </div>
